@@ -1,10 +1,10 @@
 ## Welcome to Stratox 👋
 
-Stratox.js offers a comprehensive suite of frontend libraries, meticulously crafted for both standalone applications and seamless integration within the Stratox framework. Our tools are designed to empower developers, streamline the development process, and enhance your projects with cutting-edge technology.
+Stratox.js offers a comprehensive suite of frontend libraries, crafted for both standalone applications and integration within the Stratox framework.
 
 ## Documentation
 
-Dive into the vast ocean of knowledge with our detailed documentation. Whether you're just getting started or looking to master the advanced features of Stratox, everything you need is right at your fingertips. **[Explore the Stratox documentation here](https://stratox.wazabii.se/)**.
+Dive into our detailed documentation. Whether you're just getting started or looking to master the advanced features of Stratox, everything you need is right at your fingertips. **[Explore the Stratox documentation here](https://stratox.wazabii.se/)**.
 
 ## Contribute
 
