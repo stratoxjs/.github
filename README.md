@@ -1,2 +1,2 @@
-# Stratox
-Stratox comprises a suite of frontend libraries designed for both standalone use and integration with the Stratox framework.
+# Stratox - Community Health Files
+This repository contains the default community health files for the organization.
