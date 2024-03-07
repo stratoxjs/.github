@@ -9,7 +9,7 @@ Please note we have a code of conduct, please follow it in all your interactions
 
 ## Code of Conduct
 
-[Your Project Name] adheres to a [Code of Conduct](CODE_OF_CONDUCT.md) adapted from the Contributor Covenant, version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html. By participating, you are expected to uphold this code.
+Stratox adheres to a [Code of Conduct](CODE_OF_CONDUCT.md) adapted from the Contributor Covenant, version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html. By participating, you are expected to uphold this code.
 
 ## Getting Started
 
